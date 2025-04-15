@@ -2,7 +2,7 @@
 
 This project involves a drone navigation system that uses a graph-based approach for pathfinding. The goal is to provide the shortest path between nodes, track the drone's last confirmed position, and manage the drone's movement through a network of waypoints.
 
-## Table of Contents
+## Table of Conten_ts
 
 - [Description](#description)
 - [Technologies Used](#technologies-used)
